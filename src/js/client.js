@@ -1,7 +1,7 @@
 import React from "react";
-import ReactDom from "react-dom";
+import ReactDOM from "react-dom";
 
-class Layout extends React.component {
+class Layout extends React.Component {
     render() {
         return (
             <h1>It works!</h1>
@@ -10,4 +10,4 @@ class Layout extends React.component {
 }
 
 const app = document.getElementById('app');
-ReactDom.render(<Layout/>, app);
+ReactDOM.render(<Layout/>, app);
