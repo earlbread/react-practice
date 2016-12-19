@@ -6,5 +6,7 @@ This is react practice project goes along with [React JS tutorials][].
 
 ## Getting started
 
+You can install and run server as follows:
+
     npm install
     npm run dev
